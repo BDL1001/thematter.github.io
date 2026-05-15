@@ -11,13 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to our Project Website!
+    text: The Matter's Line Following Robot
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Features"
     text: "Lorem ipsum"
     section: services
     list:
