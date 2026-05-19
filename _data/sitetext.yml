@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Project Website!
-    text: The Matter's Line Following Robot
+    text: Line Following Robot
     button: Tell Me More
     buttonlink: "#services"
 
