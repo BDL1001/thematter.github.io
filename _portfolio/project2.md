@@ -1,12 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Robot Following Line
+subtitle: Here it is!
 alt: Keep Exploring
 
 caption:
   title: Line Following Demonstration
   subtitle: Our first line tracking success!
-  thumbnail: assets/img/portfolio/07-linefollowerbotprototype.jpeg
+  thumbnail: assets/img/portfolio/07-linefollowerbotprototype.jpg
 ---
 
 <video controls width="100%">
