@@ -6,7 +6,7 @@ alt: Keep Exploring
 caption:
   title: Line Following Demonstration
   subtitle: Our first line tracking success!
-  thumbnail: assets/img/linefollowerbotprototype.jpeg
+  thumbnail: assets/img/portfolio/linefollowerbotprototype.jpeg
 ---
 
 <video controls width="100%">
