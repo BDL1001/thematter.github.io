@@ -1,7 +1,7 @@
 ---
 title: Project Threads
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/01-linefollowingvid.mp4
 alt: Shirts on a hanger
 
 caption:
