@@ -6,11 +6,11 @@ alt: Keep Exploring
 caption:
   title: Line Following Demonstration
   subtitle: Our first line tracking success!
-  thumbnail: assets/img/portfolio/linefollowerbotprototype.jpeg
+  thumbnail: assets/img/portfolio/07-linefollowerbotprototype.jpeg
 ---
 
 <video controls width="100%">
-  <source src="{{ 'assets/img/portfolio/01-linefollowingvid.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ './assets/img/portfolio/01-linefollowingvid.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
