@@ -30,24 +30,24 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Assembly"
-        year: "Challenge 1"
+        year: "May 15"
         desc: "Assembled and tested each submodule/component"
         image: assets/img/timeline/Challenge1.jpg
         alt:
       - title: "System Integration"
-        year: "Challange 2"
+        year: "May 19"
         desc: "Assembled the line following robot with all components"
         image: assets/img/ece5botprototype.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "Line Following"
+        year: "May 22"
+        desc: "Robot successfully followed line after calibration"
+        image: assets/img/videos/portfolio/01-linefollowingvid.mp4
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "PID Tuning"
+        year: ""
+        desc: ""
+        image:
         alt:
         # you can enforce the alignment
         align: right
