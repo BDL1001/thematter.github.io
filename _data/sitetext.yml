@@ -37,7 +37,7 @@ en: &DEFAULT_EN
       - title: "System Integration"
         year: "May 19"
         desc: "Assembled the line following robot with all components"
-        image: assets/img/ece5botprototype.jpg
+        image: assets/img/timeline/ece5botprototype_resized.jpg
         alt:
       - title: "Line Following"
         year: "May 22"
