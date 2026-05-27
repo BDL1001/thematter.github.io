@@ -32,7 +32,7 @@ en: &DEFAULT_EN
       - title: "Assembly"
         year: "Challenge 1"
         desc: "Assembled and tested each submodule/component"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/Challenge1.jpg
         alt:
       - title: "An Agency is Born"
         year: "March 2011"
