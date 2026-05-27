@@ -34,10 +34,10 @@ en: &DEFAULT_EN
         desc: "Assembled and tested each submodule/component"
         image: assets/img/timeline/Challenge1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "System Integration"
+        year: "Challange 2"
+        desc: "Assembled the line following robot with all components"
+        image: assets/img/ece5botprototype.jpg
         alt:
       - title: "Jekyll Theme is created"
         year: "2019"
