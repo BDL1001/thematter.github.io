@@ -23,8 +23,8 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "ECE 5 Progress"
+    text: "Timeline"
     section: timeline
     # left is the default
     #start_align: "left"
