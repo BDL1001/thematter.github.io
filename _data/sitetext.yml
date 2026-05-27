@@ -32,7 +32,7 @@ en: &DEFAULT_EN
       - title: "Assembly"
         year: "May 15"
         desc: "Assembled and tested each submodule/component"
-        image: assets/img/timeline/Challenge1.jpg
+        image: assets/img/timeline/Challenge1.png
         alt:
       - title: "System Integration"
         year: "May 19"
