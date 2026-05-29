@@ -42,8 +42,8 @@ en: &DEFAULT_EN
       - title: "Line Following"
         year: "May 22"
         desc: "Robot successfully followed line after calibration"
-        image: assets/img/videos/portfolio/01-linefollowingvid.mp4
-        alt: image alt text
+        image: 
+        alt:
       - title: "PID Tuning"
         year: ""
         desc: ""
