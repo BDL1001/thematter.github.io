@@ -42,7 +42,7 @@ en: &DEFAULT_EN
       - title: "Line Following"
         year: "May 22"
         desc: "Robot successfully followed line after calibration"
-        image: 
+        image: assets/img/timeline/linefollowing.png
         alt:
       - title: "PID Tuning"
         year: ""
