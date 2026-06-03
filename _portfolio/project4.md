@@ -5,7 +5,7 @@ image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: POD Control
+  title: PID Control
   subtitle: Explanation & Values
   thumbnail: assets/img/portfolio/PID_Control_Thumbnail.png
 ---
