@@ -51,5 +51,25 @@ tr:nth-child(even) {
   </tr>
 </table>
 
-Explanation for PID Values
+Explanation for circular.
+
+<table>
+  <caption>
+    Frequency Sweep
+  </caption>
+  <tr>
+    <th>Speed</th>
+    <th>Proportional Coefficient</th>
+    <th>Integral Coefficient</th>
+    <th>Derivative Coefficient</th>
+  </tr>
+  <tr>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+  </tr>
+</table>
+
+Explanation for frequency sweep.
 
