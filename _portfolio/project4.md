@@ -1,7 +1,7 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+title: PID Coefficients
+subtitle: Table 
+image:
 alt: 
 
 caption:
