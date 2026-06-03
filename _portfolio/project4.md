@@ -1,6 +1,6 @@
 ---
 title: PID Coefficients
-subtitle: Table 
+subtitle: Tables (Circular, Frequency Sweep, etc.) 
 image:
 alt: 
 
@@ -29,42 +29,21 @@ tr:nth-child(even) {
 </style>
 
 <table>
+  <caption>
+    Circular Track
+  </caption>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Speed</th>
+    <th>Proportional Coefficient</th>
+    <th>Integral Coefficient</th>
+    <th>Derivative Coefficient</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
   </tr>
 </table>
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Explanation for PID Values
 
