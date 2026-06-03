@@ -11,6 +11,11 @@ caption:
 ---
 
 <style>
+caption {
+  text-align: center;
+  caption-side: top;
+}
+  
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -39,6 +44,7 @@ tr:nth-child(even) {
     <th>Derivative Coefficient</th>
   </tr>
   <tr>
+    <td>#</td>
     <td>#</td>
     <td>#</td>
     <td>#</td>
