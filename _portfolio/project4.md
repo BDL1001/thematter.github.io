@@ -44,10 +44,10 @@ tr:nth-child(even) {
     <th>Derivative Coefficient</th>
   </tr>
   <tr>
-    <td>#</td>
-    <td>#</td>
-    <td>#</td>
-    <td>#</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
   </tr>
 </table>
 
@@ -55,7 +55,7 @@ Explanation for circular.
 
 <table>
   <caption>
-    Frequency Sweep
+    Frequency Sweep Track
   </caption>
   <tr>
     <th>Speed</th>
