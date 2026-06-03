@@ -10,7 +10,7 @@ caption:
 ---
 
 <video controls width="100%">
-  <source src="{{ 'assets/videos/portfolio/01-linefollowingvid.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ 'assets/videos/portfolio/line_following_demo.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
