@@ -4,7 +4,7 @@ subtitle: 14+ laps in 1 minute
 alt: 
 
 caption:
-  title: Seed Round
+  title: Final Competition Robot
   subtitle: Robot in Action
   thumbnail: assets/img/portfolio/final_robot.jpg
 ---
