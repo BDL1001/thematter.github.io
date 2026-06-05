@@ -5,7 +5,7 @@ subtitle: Competition Day!
 caption:
   title: Competition Scores
   subtitle: Times and Ranks
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  thumbnail: assets/img/portfolio/Podiums.png
 ---
 <style>
 caption {
@@ -74,7 +74,7 @@ tr:nth-child(even) {
     <th><b>Rank</b></th>
   </tr>
   <tr>
-    <td><b>Drag Race</b></td>
+    <td><b>Loop</b></td>
     <td>#</td>
     <td>#</td>
   </tr>
