@@ -31,30 +31,30 @@ en: &DEFAULT_EN
     events:
       - title: "Assembly"
         year: "May 15"
-        desc: "Assembled and tested each submodule/component"
+        desc: "Assembled & tested each component"
         image: assets/img/timeline/Challenge1.png
         alt:
       - title: "System Integration"
         year: "May 19"
-        desc: "Assembled the line following robot with all components"
+        desc: "Assembled the line following robot w/ all components"
         image: assets/img/timeline/ece5botprototype_resized.jpg
         alt:
       - title: "Line Following"
         year: "May 22"
-        desc: "Robot successfully followed line after calibration"
+        desc: "Robot successfully followed line"
         image: assets/img/timeline/linefollowing.png
         alt:
-      - title: "PID Tuning"
+      - title: "Seeding Rounds"
         year: ""
         desc: ""
         image:
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Competition (June 4)"
 
   team:
-    title: "The Matter"
+    title: "The Matter (Team 26)"
     text: "Team Members"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
