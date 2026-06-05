@@ -1,8 +1,7 @@
 ---
 title: Breadboarding, Modeling, and Assembling
 subtitle: Putting everything together
-video: assets/videos/portfolio/01-linefollowingvid.mp4
-alt: Shirts on a hanger
+alt: 
 
 caption:
   title: Building the Robot
