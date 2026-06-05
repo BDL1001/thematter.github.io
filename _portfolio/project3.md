@@ -6,7 +6,7 @@ alt:
 caption:
   title: Seed Round
   subtitle: Robot in Action
-  thumbnail: 
+  thumbnail: assets/img/portfolio/final_robot.jpg
 ---
 
 <video controls width="100%">
