@@ -45,9 +45,9 @@ en: &DEFAULT_EN
         image: assets/img/timeline/linefollowing.png
         alt:
       - title: "Seeding Rounds"
-        year: ""
-        desc: ""
-        image:
+        year: "May 29 & June 3"
+        desc: "14+ laps in 1 minute"
+        image: assets/img/timeline/Seed_Rounds_Thumbnail.png
         alt:
         # you can enforce the alignment
         align: right
