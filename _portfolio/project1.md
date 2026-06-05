@@ -1,18 +1,22 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Breadboarding, Modeling, and Assembling
+subtitle: Putting everything together
 video: assets/videos/portfolio/01-linefollowingvid.mp4
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Building the Robot
+  subtitle: Prototyping and Assembly
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+<style>
+  img {
+    width: 100%;
+  }
+</style>
+
+<center> <img src = "" width = "" height = ""> </center>
 
 {:.list-inline}
 - Date: January 2017
-- Client: Threads
-- Category: Illustration
 
