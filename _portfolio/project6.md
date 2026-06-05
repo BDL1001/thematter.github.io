@@ -1,18 +1,81 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/06-full.jpg
-alt: 
+title: Track Rankings & Scores
+subtitle: Competition Day!
 
 caption:
-  title: Window
-  subtitle: Photography
+  title: Competition Scores
+  subtitle: Times and Ranks
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+<style>
+caption {
+  text-align: center;
+  caption-side: top;
+}
+  
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
 
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+
+<table>
+  <caption>
+    Drag Race
+  </caption>
+  <tr>
+    <th></th>
+    <th><b>Time</b></th>
+    <th><b>Rank</b></th>
+  </tr>
+  <tr>
+    <td><b>Drag Race</b></td>
+    <td>#</td>
+    <td>#</td>
+  </tr>
+</table>
+
+<table>
+  <caption>
+    Frequency Sweep
+  </caption>
+  <tr>
+    <th></th>
+    <th><b>Distance</b></th>
+    <th><b>Time</b></th>
+    <th><b>Rank</b></th>
+  </tr>
+  <tr>
+    <td><b>Frequency Sweep</b></td>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+  </tr>
+</table>
+
+<table>
+  <caption>
+    Loop
+  </caption>
+  <tr>
+    <th></th>
+    <th><b># of Loops</b></th>
+    <th><b>Rank</b></th>
+  </tr>
+  <tr>
+    <td><b>Drag Race</b></td>
+    <td>#</td>
+    <td>#</td>
+  </tr>
+</table>
