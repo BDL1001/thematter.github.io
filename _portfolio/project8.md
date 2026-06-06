@@ -18,7 +18,6 @@ Robot reached a distance of ~11, but became stuck at sharp turns.
 </video>
 Robot made a sudden recovery while the camera was off. Finally reached a distance of 11.
 <br>
-
 <center>
 Finished at rank #1, with a total recorded distance covered of 11 units.
 </center>
