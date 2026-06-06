@@ -8,6 +8,7 @@ caption:
   subtitle: Prototyping and Assembly
   thumbnail: assets/img/portfolio/Robot_CAD.png
 ---
+
 <style>
   img {
     width: 66.6%;
