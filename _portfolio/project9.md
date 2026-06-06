@@ -6,6 +6,12 @@ caption:
   subtitle: Winning Laps & Team Picture
   thumbnail: assets/img/portfolio/rank1.jpg
 ---
+<style> 
+  img { 
+    width: 0.0666%; 
+    height: 0.0666% 
+  }
+</style>
 
 <video controls width="100%">
   <source src="{{ 'assets/videos/portfolio/semifinal.mp4' | relative_url }}" type="video/mp4">
@@ -25,7 +31,7 @@ Finals Round 2 (The Matter beats King Sean)
 <br>
 <br>
 
-<img src = "assets/img/team/teampic.jpg" width = "428" height = "484"> 
+<img src = "assets/img/team/teampic.jpg" width = "" height = ""> 
 <center>
   The Matter Wins
 </center>
