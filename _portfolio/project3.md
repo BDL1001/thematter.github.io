@@ -22,7 +22,9 @@ caption:
   <caption>
     Final Robot Design
   </caption>
-  <img src = "assets/img/portfolio/Robot Annotations.jpg">
+  <picture controls width="100%">
+    <img src = "assets/img/portfolio/Robot Annotations.jpg">
+  </picture>
 </center>
 Examples of some robot revisions are supports and a light shield. Extrusions are added on either side of the robot to support both the potentiometer board and ESP32 for ease of tuning/programming. A light shield is added to reduce the influence and effects of ambient light on robot performance. <br>
 
