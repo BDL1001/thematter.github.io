@@ -14,7 +14,7 @@ Robot reached a distance of ~11, but became stuck at sharp turns.
 <br>
 
 <video controls width="100%">
-  <source src="{{ 'assets/videos/portfolio/freq_track1.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ 'assets/videos/portfolio/freq_track2.mp4' | relative_url }}" type="video/mp4">
 </video>
 Robot made a sudden recovery while the camera was off. Finally reached a distance of 11.
 <br>
