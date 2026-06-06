@@ -10,30 +10,31 @@ caption:
 ---
 <style>
   img {
-    width: 100%;
+    width: 66.6%;
+    height: 66.6%
   }
 </style>
 
 <center>
-  <img src = "assets/img/portfolio/Breadboard_pots.png" width = "265" height = "252"> 
+  <img src = "assets/img/portfolio/Breadboard_pots.png" width = "" height = ""> 
 </center>
 Breadboarding the potentiometers for robot PID tuning.
 <br>
 
 <center>
-  <img src = "assets/img/portfolio/Breadboard_ldr.png" width = "294" height = "273"> 
+  <img src = "assets/img/portfolio/Breadboard_ldr.png" width = "" height = ""> 
 </center>
 Breadboarding the LDRs for optimal line detection distance.
 <br>
 
 <center>
-  <img src = "assets/img/portfolio/motordriver.png" width = "295" height = "333"> 
+  <img src = "assets/img/portfolio/motordriver.png" width = "" height = ""> 
 </center>
 Wired the L298N motor driver and motors together for library testing.
 <br>
 
 <center>
-  <img src = "assets/img/portfolio/Robot_CAD.png" width = "251" height = "211"> 
+  <img src = "assets/img/portfolio/Robot_CAD.png" width = "" height = ""> 
 </center>
 
 Added supports for the PID potentiometer breadboard, the light dependent resistor breadboard, and the L298N motor driver. Screw holes were also added at the nose for a future light shield to house the light dependent resistors.
