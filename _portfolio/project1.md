@@ -12,7 +12,7 @@ caption:
 <style>
   img {
     width: 66.6%;
-    height: 66.6%
+    height: 66.6%;
   }
   caption {
     caption-side: bottom;
@@ -23,7 +23,7 @@ caption:
   <caption>
     Breadboarding the potentiometers for robot PID tuning.
   </caption>
-  <img src = "assets/img/portfolio/Breadboard_pots.png" width = "" height = ""> 
+  <img src="assets/img/portfolio/Breadboard_pots.png" width = "" height = ""> 
 </center>
 <br>
 
@@ -31,7 +31,7 @@ caption:
   <caption>
     Breadboarding the LDRs for optimal line detection distance.
   </caption>
-  <img src = "assets/img/portfolio/Breadboard_ldr.png" width = "" height = ""> 
+  <img src="assets/img/portfolio/Breadboard_ldr.png" width = "" height = ""> 
 </center>
 <br>
 
@@ -39,7 +39,7 @@ caption:
   <caption>
     Wired the L298N motor driver and motors together for library testing.
   </caption>
-  <img src = "assets/img/portfolio/motordriver.png" width = "" height = ""> 
+  <img src="assets/img/portfolio/motordriver.png" width = "" height = ""> 
 </center>
 <br>
 
@@ -47,7 +47,7 @@ caption:
   <caption>
     Added supports for the PID potentiometer breadboard, the light dependent resistor breadboard, and the L298N motor driver. Screw holes were also added at the nose for a future light shield to house the light dependent   resistors.
   </caption>
-  <img src = "assets/img/portfolio/Robot_CAD.png" width = "" height = ""> 
+  <img src="assets/img/portfolio/Robot_CAD.png" width = "" height = ""> 
 </center>
 <br>
 
@@ -55,7 +55,7 @@ caption:
   <caption>
     Assembled all the components listed above into one cohesive robot. 
   </caption>
-  <img src = "assets/img/portfolio/07-thumbnail.jpg" width = "" height = ""> 
+  <img src="assets/img/portfolio/07-thumbnail.jpg" width = "" height = ""> 
 </center>
 
 {:.list-inline}
