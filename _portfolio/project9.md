@@ -1,18 +1,37 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/06-full.jpg
-alt: 
+title: Drag Race Videos
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: Drag Race Victory
+  subtitle: Winning Laps & Team Picture
+  thumbnail: assets/img/portfolio/rank1.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+<video controls width="100%">
+  <source src="{{ '' | relative_url }}" type="video/mp4">
+</video>
+Semifinals (The Matter vs. Something)
+<br>
+<br>
+
+<video controls width="100%">
+  <source src="{{ '' | relative_url }}" type="video/mp4">
+</video>
+Finals Round 1 (The Matter vs. King Sean)
+<video controls width="100%">
+  <source src="{{ '' | relative_url }}" type="video/mp4">
+</video>
+Finals Round 2 (The Matter beats King Sean)
+<br>
+<br>
+
+<img src = "" width = "" height = ""> 
+<center>
+  The Matter Wins
+</center>
+
+
+
+
+
 
