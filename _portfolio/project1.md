@@ -6,7 +6,7 @@ alt:
 caption:
   title: Building the Robot
   subtitle: Prototyping and Assembly
-  thumbnail: assets/img/portfolio/Robot_CAD.png
+  thumbnail: assets/img/portfolio/Robot_CAD.png 
 ---
 
 <style>
