@@ -15,12 +15,31 @@ caption:
 </style>
 
 <center>
-  <caption style="text-align:center">
-    Breadboarding the potentiometers for PID tuning
-  </caption>
   <img src = "assets/img/portfolio/Breadboard_pots.png" width = "" height = ""> 
 </center>
+<br></br>
+
+Breadboarding the potentiometers for robot PID tuning.
+
+<center>
+  <img src = "assets/img/portfolio/Breadboard_ldr.png" width = "" height = ""> 
+</center>
+<br></br>
+
+Breadboarding the LDRs for optimal line detection distance.
+
+<center>
+  <img src = "assets/img/portfolio/Breadboard_pots.png" width = "" height = ""> 
+</center>
+<br></br>
+
+<center>
+  <img src = "assets/img/portfolio/Robot_CAD.png" width = "" height = ""> 
+</center>
+<br></br>
+
+Added supports for the PID potentiometer breadboard, the light dependent resistor breadboard, and the L298N motor driver. Screw holes were also added at the nose for a future light shield to house the light dependent resistors.
 
 {:.list-inline}
-- Date: January 2017
+- Date: May 15, 2026
 
