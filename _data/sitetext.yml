@@ -31,78 +31,43 @@ en: &DEFAULT_EN
     events:
       - title: "Assembly"
         year: "May 15"
-        desc: "Assembled and tested each submodule/component"
-        image: assets/img/timeline/Challenge1.png
+        desc: "Assembled & tested each component"
+        image: "assets/img/timeline/Challenge1.png"
         alt:
       - title: "System Integration"
         year: "May 19"
-        desc: "Assembled the line following robot with all components"
+        desc: "Assembled the line following robot w/ all components"
         image: assets/img/timeline/ece5botprototype_resized.jpg
         alt:
       - title: "Line Following"
         year: "May 22"
-        desc: "Robot successfully followed line after calibration"
-        image: assets/img/videos/portfolio/01-linefollowingvid.mp4
-        alt: image alt text
-      - title: "PID Tuning"
-        year: ""
-        desc: ""
-        image:
+        desc: "Robot successfully followed line"
+        image: assets/img/timeline/linefollowing.png
+        alt:
+      - title: "Seeding Rounds"
+        year: "May 29 & June 3"
+        desc: "14+ laps in 1 minute"
+        image: assets/img/timeline/Seed_Rounds_Thumbnail.png
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Competition Day (June 4)"
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "The Matter (Team 26)"
+    text: "Team Members"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Ryan Nielsen"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Issac Shing"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
-  footer:
-    legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      - name: "Dylan McDermott"
+        image: assets/img/team/500x500.jpg
+      - name: "Dat Luu"
+        image: assets/img/team/500x500.jpg
+            
 en-US:
   <<: *DEFAULT_EN
 en-CA:
