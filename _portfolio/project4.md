@@ -35,19 +35,21 @@ tr:nth-child(even) {
 
 <table>
   <caption>
-    Circular Track
+    Drag Race
   </caption>
   <tr>
-    <th>Speed</th>
-    <th>Proportional Coefficient</th>
-    <th>Integral Coefficient</th>
-    <th>Derivative Coefficient</th>
+    <th><b>Nominal Speed</b></th>
+    <th><b>Speed Increase</b></th>
+    <th><b>Proportional Gain</b></th>
+    <th><b>Integral Gain</b></th>
+    <th><b>Derivative Gain</b></th>
   </tr>
   <tr>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
+    <td>200</td>
+    <td>100</td>
+    <td>90</td>
+    <td>0.03</td>
+    <td>0.56</td>
   </tr>
 </table>
 
@@ -55,21 +57,42 @@ Explanation for circular.
 
 <table>
   <caption>
-    Frequency Sweep Track
+    Soft Circle (Loop)
   </caption>
   <tr>
-    <th>Speed</th>
-    <th>Proportional Coefficient</th>
-    <th>Integral Coefficient</th>
-    <th>Derivative Coefficient</th>
+    <th><b>Nominal Speed</b></th>
+    <th><b>Speed Increase</b></th>
+    <th><b>Proportional Gain</b></th>
+    <th><b>Integral Gain</b></th>
+    <th><b>Derivative Gain</b></th>
   </tr>
   <tr>
-    <td>#</td>
-    <td>#</td>
-    <td>#</td>
-    <td>#</td>
+    <td>150</td>
+    <td>100</td>
+    <td>100.50</td>
+    <td>0.03</td>
+    <td>0.14</td>
   </tr>
 </table>
 
 Explanation for frequency sweep.
 
+<table>
+  <caption>
+    Frequency Sweep
+  </caption>
+  <tr>
+    <th><b>Nominal Speed</b></th>
+    <th><b>Speed Increase</b></th>
+    <th><b>Proportional Gain</b></th>
+    <th><b>Integral Gain</b></th>
+    <th><b>Derivative Gain</b></th>
+  </tr>
+  <tr>
+    <td>150</td>
+    <td>0</td>
+    <td>84</td>
+    <td>0.01</td>
+    <td>0.35</td>
+  </tr>
+</table>
