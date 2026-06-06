@@ -41,8 +41,8 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td><b>Drag Race</b></td>
-    <td>#</td>
-    <td>#</td>
+    <td>8:38</td>
+    <td>#1</td>
   </tr>
 </table>
 
@@ -58,9 +58,9 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td><b>Frequency Sweep</b></td>
-    <td>#</td>
-    <td>#</td>
-    <td>#</td>
+    <td>11</td>
+    <td>35</td>
+    <td>#1</td>
   </tr>
 </table>
 
@@ -75,7 +75,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td><b>Loop</b></td>
-    <td>#</td>
-    <td>#</td>
+    <td>18.52</td>
+    <td>#4</td>
   </tr>
 </table>
