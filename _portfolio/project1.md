@@ -17,23 +17,20 @@ caption:
 <center>
   <img src = "assets/img/portfolio/Breadboard_pots.png" width = "265" height = "252"> 
 </center>
-<br></br>
-
 Breadboarding the potentiometers for robot PID tuning.
+<br>
 
 <center>
   <img src = "assets/img/portfolio/Breadboard_ldr.png" width = "294" height = "273"> 
 </center>
-<br></br>
-
 Breadboarding the LDRs for optimal line detection distance.
+<br>
 
 <center>
   <img src = "assets/img/portfolio/motordriver.png" width = "295" height = "333"> 
 </center>
-<br></br>
-
 Wired the L298N motor driver and motors together for library testing.
+<br>
 
 <center>
   <img src = "assets/img/portfolio/Robot_CAD.png" width = "251" height = "211"> 
