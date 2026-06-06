@@ -1,18 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/06-full.jpg
-alt: 
+title: Frequency Sweep Track Video 
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: Competition Day Videos
+  subtitle: Frequency Sweep Track
+  thumbnail: assets/img/portfolio/Podiums.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
-
+<video controls width="100%">
+  <source src="{{ '' | relative_url }}" type="video/mp4">
+</video>
+Finished at rank #1, with a total distance covered of 11 units.
