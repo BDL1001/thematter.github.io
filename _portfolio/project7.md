@@ -1,10 +1,9 @@
 ---
-title: Competition Day
-subtitle: Loop Track Video
-alt: 
+title: Loop Track Video 
 
 caption:
-  title: Loop Track
+  title: Competition Day Videos
+  subtitle: Loop Track
   thumbnail: assets/img/portfolio/Podiums.png
 ---
 
