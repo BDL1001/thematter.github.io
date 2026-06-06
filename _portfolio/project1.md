@@ -14,7 +14,7 @@ caption:
     height: 66.6%
   }
   caption {
-  caption-side: bottom;
+    caption-side: bottom;
   }
 </style>
 
