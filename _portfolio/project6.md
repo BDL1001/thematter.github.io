@@ -5,7 +5,7 @@ subtitle: Competition Day!
 caption:
   title: Competition Scores
   subtitle: Times and Ranks
-  thumbnail: assets/img/portfolio/Podiums.png
+  thumbnail: assets/img/portfolio/cartoon_leaderboard.jpg
 ---
 <style>
 caption {
