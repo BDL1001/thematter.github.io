@@ -8,6 +8,6 @@ caption:
 ---
 
 <video controls width="100%">
-  <source src="{{ '' | relative_url }}" type="video/mp4">
+  <source src="{{ 'assets/videos/portfolio/looptrack.mp4' | relative_url }}" type="video/mp4">
 </video>
 Finished at Rank #4 (18.52 laps).
