@@ -79,3 +79,10 @@ tr:nth-child(even) {
     <td>#4</td>
   </tr>
 </table>
+
+<center>
+  Leaderboards for each track
+</center>
+<img src="assets/img/portfolio/dragrace_ranks.png" width = "" height = "">
+<img src="assets/img/portfolio/freq_ranks.png" width = "" height = "">
+<img src="assets/img/portfolio/loop_ranks.png" width = "" height = "">
